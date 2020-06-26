@@ -74,7 +74,7 @@
         "network": "tcp",
         "security": "tls",
         "tlsSettings": {
-          "allowInsecure": false,
+          "allowInsecure": true,
           "serverName": null
         },
         "tcpSettings": null,
