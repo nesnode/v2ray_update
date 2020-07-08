@@ -25,7 +25,7 @@
       },
       "settings": {
         "auth": "noauth",
-        "udp": false,
+        "udp": true,
         "ip": null,
         "address": null,
         "clients": null
